@@ -1,0 +1,23 @@
+html 
+!DOCTYPE html
+meta tag- search engine optimization, apply responsiveness to webpage
+        name-viewport content="width=device-width,initial-scale=1"
+
+
+CSS
+@media (screen-width){
+    selector{
+        properties:value; ...
+    }
+}
+
+max-width:992px atleast
+and min-width  atmost
+
+max-width:992px and min-width:768px (for a tablet)
+
+extra small :- 486- 576px
+small   :- 576-768px 
+medium  :- 768-992px
+large   :- 992-1200px,1366px
+extra large :- 1366px and above
